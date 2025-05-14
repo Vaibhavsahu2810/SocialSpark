@@ -2,7 +2,7 @@
 
 # Description: GitHub Actions workflow to lint Python code using flake8.
 
-# Author: Team Genz-AI
+#
 
 name: Lint with flake8
 
@@ -17,7 +17,7 @@ on:
 jobs:
   flake8-lint:
     runs-on: ubuntu-latest
-    name : Lint
+    name: Lint
     steps:
       - name: Check out source repository
         uses: actions/checkout@v4

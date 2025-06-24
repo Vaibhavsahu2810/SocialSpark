@@ -11,8 +11,6 @@ Leveraging **Langflow** for advanced query processing, SocialSpark allows users 
 
 The platform processes these queries using powerful AI models to deliver actionable insights instantly, empowering **content creators**, **influencers**, **marketers**, and **businesses** to optimize their social media strategies effectively across all platforms.
 
-
-
 ## 🧑‍💻 Technologies Used
 
 - 🤖 **Hugging Face Embedding Models:** For data embedding and analysis.
@@ -49,7 +47,7 @@ The platform processes these queries using powerful AI models to deliver actiona
 ### 🖥️ Backend Setup (Flask)
 
 ```bash
-git clone https://github.com/dvjsharma/socialspark.git
+git clone https://github.com/Vaibhavsahu2810/socialspark.git
 cd socialspark
 python -m venv venv
 source venv/bin/activate  # For Windows use: venv\\Scripts\\activate

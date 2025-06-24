@@ -1,6 +1,6 @@
 # ✨ SocialSpark
 
-**SocialSpark** is a query-driven platform designed to ignite your social media growth by providing AI-powered insights across multiple platforms. The platform fetches detailed social media data, including engagement metrics, audience insights, and performance analytics, using advanced APIs. This data is securely stored in **DataStax Astra DB**, ensuring scalable and efficient data management.
+**SocialSpark** is a query-driven platform designed to ignite your social media growth by providing AI-powered insights for instagram. The platform fetches detailed social media data, including engagement metrics, audience insights, and performance analytics, using advanced APIs. This data is securely stored in **DataStax Astra DB**, ensuring scalable and efficient data management.
 
 Leveraging **Langflow** for advanced query processing, SocialSpark allows users to ask specific, natural-language questions such as:
 
@@ -19,20 +19,17 @@ The platform processes these queries using powerful AI models to deliver actiona
 - 🐍 **Flask:** For backend API management and data flow handling.
 - ⚡ **Next.js:** For dynamic and responsive frontend development.
 - 🎨 **Tailwind CSS:** Styled for a modern, mobile-friendly experience.
-- ✨ **AI SDK:** For seamless AI integration and chat functionality.
 
 ---
 
 ## 🌟 Features
 
-- 📊 **Multi-Platform Data Fetching:** Connect and analyze data from Instagram, TikTok, Twitter, and more.
 - 📈 **Advanced Analytics:** Compare post performances across different content types and platforms.
 - 🤖 **AI-Powered Chat Assistant:** Get instant, personalized recommendations through natural language queries.
 - 🎯 **Audience Insights:** Understand your audience demographics and behavior patterns.
 - ⏰ **Optimal Timing:** Discover the best times to post for maximum engagement.
 - 🏷️ **Hashtag Optimization:** Get AI-suggested hashtags tailored to your content and niche.
 - 📦 **Scalable Storage:** Uses **DataStax Astra DB** for low-latency storage and retrieval.
-- 🔄 **Real-time Monitoring:** Track your content performance as it happens.
 
 ---
 

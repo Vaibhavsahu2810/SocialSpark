@@ -54,7 +54,7 @@ def process_query(query: str):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="InstaIQ", page_icon="🤖", layout="wide")
+    st.set_page_config(page_title="SocialSpark", page_icon="🤖", layout="wide")
 
     st.markdown(
         """

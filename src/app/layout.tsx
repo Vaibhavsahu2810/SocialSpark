@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "InstaIQ",
+  title: "SocialSpark",
   description: "AI-powered social media content analyzer",
 };
 

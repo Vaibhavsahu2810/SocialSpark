@@ -13,7 +13,7 @@ The platform processes these queries using powerful AI models to deliver actiona
 
 ## 🧑‍💻 Technologies Used
 
-- 🤖 **Hugging Face Embedding Models:** For data embedding and analysis.
+- 🤖 **Chat gpt Embedding Models:** For data embedding and analysis.
 - 📦 **DataStax Astra DB:** For efficient vector storage and data retrieval.
 - 🧠 **Gemini & Langflow:** To build modular and scalable query pipelines.
 - 🐍 **Flask:** For backend API management and data flow handling.
@@ -21,6 +21,10 @@ The platform processes these queries using powerful AI models to deliver actiona
 - 🎨 **Tailwind CSS:** Styled for a modern, mobile-friendly experience.
 
 ---
+
+## System Design of LangFlow
+
+![alt text](image.png)
 
 ## 🌟 Features
 
